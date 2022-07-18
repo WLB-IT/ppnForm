@@ -1,0 +1,20 @@
+msgid "plugins.generic.funding.noneCreated"
+msgstr "No PPNs"
+
+msgid "plugins.generic.ppnForm.ppnTab"
+msgstr "PPNs"
+
+msgid "plugins.generic.ppnForm.addPPN"
+msgstr "Add PPN"
+
+msgid "plugins.generic.ppnForm.ppnTitle"
+msgstr "PPN/Title information of this Review"
+
+msgid "plugins.generic.ppnForm.ppnRequired"
+msgstr "PPN required."
+
+msgid "plugins.generic.ppnForm.ppnFieldDescription"
+msgstr "Enter PPN either as a number or as data set in the form of "$aNädelin, Jörg$tDen Albtrauf entdecken$d2018$h443 Seiten"."
+
+msgid "plugins.generic.ppnForm.description"
+msgstr "This Plugin adds a PPN-Grid to the submission process to save PPNs/data sets into the database."

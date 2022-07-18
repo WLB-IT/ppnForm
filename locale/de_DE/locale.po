@@ -1,0 +1,23 @@
+msgid "plugins.generic.ppnForm.noneCreated"
+msgstr "Keine PPNs"
+
+msgid "plugins.generic.ppnForm.description"
+msgstr "Dieses Plugin bettet ein PPN-Grid in den Einreichungsprozess ein und speichert PPNs/Titelsätze in einer Datenbanktabelle."
+
+msgid "plugins.generic.ppnForm.ppnTab"
+msgstr "PPNs"
+
+msgid "plugins.generic.ppnForm.addPPN"
+msgstr "PPN hinzufügen"
+
+msgid "plugins.generic.ppnForm.ppnTitle"
+msgstr "PPN/Titelsatz des rezensierten Werkes"
+
+msgid "plugins.generic.ppnForm.ppnRequired"
+msgstr "Die PPN wird benötigt."
+
+msgid "plugins.generic.ppnForm.ppnFieldDescription"
+msgstr "PPN entweder als Zahl oder als Titelsatz in Form von "$aNädelin, Jörg$tDen Albtrauf entdecken$d2018$h443 Seiten" eingeben."
+
+
+
